@@ -14,6 +14,10 @@ rss_groups:
     4khd: http://43.153.102.110:1200/4khd/category/cosplay
   视频: &video
     141jav: https://rsshub.app/141jav/new
+  小红书: &xhs
+    XIU-C:
+      url: https://rsshub.app/xiaohongshu/user/59fd86544eacab38f7fd9830/notes
+      fold: true
 
 chat_ids:
   -1002662250292:
@@ -23,3 +27,4 @@ chat_ids:
     # <<: *other
     <<: *pic
     <<: *video
+    <<: *xhs
