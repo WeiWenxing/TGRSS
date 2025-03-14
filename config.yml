@@ -12,7 +12,12 @@ rss_groups:
     少数派: https://sspai.com/feed
 
 chat_ids:
-  383054885:
+  7266351024:
+    <<: *tech
+    <<: *blog
+    <<: *new
+    <<: *other
+  -1002662250292:
     <<: *tech
     <<: *blog
     <<: *new
