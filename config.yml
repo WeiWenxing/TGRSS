@@ -11,7 +11,7 @@ rss_groups:
   综合: &other
     少数派: https://sspai.com/feed
   图片: &pic
-    少数派: https://rsshub.app/bing
+    4khd: http://43.153.102.110:1200/4khd/category/cosplay
 
 chat_ids:
   -1002662250292:
