@@ -12,6 +12,8 @@ rss_groups:
     少数派: https://sspai.com/feed
   图片: &pic
     4khd: http://43.153.102.110:1200/4khd/category/cosplay
+  视频: &video
+    141jav: https://rsshub.app/141jav/new
 
 chat_ids:
   -1002662250292:
@@ -20,3 +22,4 @@ chat_ids:
     # <<: *new
     # <<: *other
     <<: *pic
+    <<: *video
