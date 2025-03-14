@@ -101,7 +101,7 @@ for chat_id, group in config_yml["chat_ids"].items():
                     send_message(
                         chat_id,
                         (
-                            f"Group: #{feed['group']}\n"
+                            # f"Group: #{feed['group']}\n"
                             f"Source: #{rname}\n"
                             f"[{feed['title']}]({feed['link']})\n"
                         ),

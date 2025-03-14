@@ -10,10 +10,13 @@ rss_groups:
     FT中文网: http://www.ftchinese.com/rss/news
   综合: &other
     少数派: https://sspai.com/feed
+  图片: &pic
+    少数派: https://rsshub.app/bing
 
 chat_ids:
   -1002662250292:
-    <<: *tech
-    <<: *blog
-    <<: *new
-    <<: *other
+    # <<: *tech
+    # <<: *blog
+    # <<: *new
+    # <<: *other
+    <<: *pic
